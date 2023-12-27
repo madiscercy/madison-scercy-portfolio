@@ -10,7 +10,7 @@ This portfolio is built using the following technologies:
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
 - [TypeScript](https://www.typescriptlang.org/): A typed superset of JavaScript that adds static types.
 - [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapidly building custom designs.
-- [tsParticles](https://particles.matteobruni.it/): A lightweight TypeScript library for creating particles.
+- [tsParticles](https://www.npmjs.com/package/@tsparticles/react): A lightweight TypeScript library for creating particles.
 
 ## Getting Started
 
@@ -39,6 +39,5 @@ This portfolio is deployed using the Vercel Platform from the creators of Next.j
 Check out the Next.js deployment documentation for more details.
 
 ```
-
 
 ```
